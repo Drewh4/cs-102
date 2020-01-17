@@ -1,1 +1,1 @@
-TicTacToe
+tttn is a program that allows two people to play the classic game of tic tac toe. When executed, the players should first input the dimensions of the board(3 for 3x3, 5 for 5x5, etc.) and click enter. The board will appear and the players will then be asked to select the number representing the desired square. First player is X and second player is 0. First player to successfully create a line wins, but there can be draws.  
