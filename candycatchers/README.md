@@ -1,1 +1,1 @@
-Candy Catchers
+Candy Catchers is a program that allows up to 20 players. The user will specify how many players will play and then name each player as well as the amount of candy to start off with. Each round, the users will be able to select from four different actions. After every round, the leaderboard with names and candy amounts will be displayed. The players who reach zero candy get deleted. The game ends when the users decide to quit the game, which can be chosen in any round, or if every player has been deleted. 
